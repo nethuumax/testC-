@@ -1,0 +1,16 @@
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\bin\Debug\testTest.exe.config
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\bin\Debug\testTest.exe
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\bin\Debug\testTest.pdb
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\bin\Debug\Bunifu.Core.dll
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\obj\Debug\testTest.csprojResolveAssemblyReference.cache
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\obj\Debug\testTest.Form1.resources
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\obj\Debug\testTest.Properties.Resources.resources
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\obj\Debug\testTest.csproj.GenerateResource.Cache
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\obj\Debug\testTest.exe
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\obj\Debug\testTest.pdb
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\obj\Debug\testTest.EmployeeManage.resources
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\obj\Debug\testTest.addEmp.resources
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\obj\Debug\testTest.UserControl1.resources
+c:\users\nethmi\documents\visual studio 2015\Projects\testTest\testTest\obj\Debug\testTest.viewDetails.resources
